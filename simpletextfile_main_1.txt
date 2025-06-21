@@ -1,1 +1,2 @@
 this is tranning for git hub 
+this is stash lecture , changes in main file  
